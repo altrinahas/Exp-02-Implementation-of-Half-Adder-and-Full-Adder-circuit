@@ -78,6 +78,15 @@ FULL ADDER
 
 ![image](https://github.com/altrinahas/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/145980038/c8fbda02-6596-4b69-92be-d2e23b879e4d)
 
+# TIMING DIAGRAM:
+
+HALF ADDER
+
+![image](https://github.com/altrinahas/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/145980038/f3342818-9d29-4b11-b6f4-e08152766f67)
+
+FULL ADDER
+
+![image](https://github.com/altrinahas/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/145980038/ef0b46e5-ac8c-4449-be68-11884b873cc6)
 
 ### Result:
 
