@@ -1,3 +1,5 @@
+# NAME: ALTRIN AHAS A
+# REGISTER NO: 23011604
 # Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit
 
 # Implementation-of-Half-Adder-and-Full-Adder-circuit
@@ -36,19 +38,36 @@ Switch ON the main switch
 If the output is 1, then the led glows.
 ### 
 Program:
-/*
-Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
-*/
-Logic symbol & Truthtable
-RTL realization
-
-### Output:
-### RTL
-### TIMING DIAGRAM
+# HALF ADDER
+```
+module halfadder(a,b,sum,carry);
+input a,b;
+output sum,carry;
+xor(sum,a,b);
+and(carry,a,b)
+endmodule
+```
+# FULL ADDER
+```
+module halfadder(a,b,c,sum,carry);
+input a,b,c;
+output sum,carry;
+xor(sum,a,b,c);
+assign carry=a&b | b&c | a&c
+endmodule
+```
 
 
 ### TRUTH TABLE 
+HALF ADDER
+![image](https://github.com/altrinahas/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/145980038/e917b3ac-1816-4978-908d-2ae7478dd918)
+FULL ADDER
+![image](https://github.com/altrinahas/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/145980038/abedc1c1-49ab-4853-b02a-739e2553ba88)
+# RTL VIEWER
+HALF ADDER
+![image](https://github.com/altrinahas/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/145980038/c07ee31d-47f9-465e-b556-63e83091da5e)
+FULL ADDER
+![image](https://github.com/altrinahas/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/145980038/c8fbda02-6596-4b69-92be-d2e23b879e4d)
+
 
 ### Result:
