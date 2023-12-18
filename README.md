@@ -59,14 +59,23 @@ endmodule
 
 
 ### TRUTH TABLE 
+
 HALF ADDER
+
 ![image](https://github.com/altrinahas/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/145980038/e917b3ac-1816-4978-908d-2ae7478dd918)
+
 FULL ADDER
+
 ![image](https://github.com/altrinahas/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/145980038/abedc1c1-49ab-4853-b02a-739e2553ba88)
+
 # RTL VIEWER
+
 HALF ADDER
+
 ![image](https://github.com/altrinahas/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/145980038/c07ee31d-47f9-465e-b556-63e83091da5e)
+
 FULL ADDER
+
 ![image](https://github.com/altrinahas/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/145980038/c8fbda02-6596-4b69-92be-d2e23b879e4d)
 
 
